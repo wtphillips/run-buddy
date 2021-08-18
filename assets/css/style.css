@@ -157,9 +157,12 @@ header {
   .steps h3 {
       color: #024e76;
       font-size: 46px;
-      margin-top: ;
+      margin-top: 10px;
   }
   .steps p {
       color: #39a6b2;
       font-size: 23px;
+  }
+  .steps span {
+    font-size: 38px;
   }
